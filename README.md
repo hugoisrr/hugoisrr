@@ -1,4 +1,4 @@
-[![Github profile](https://i.imgur.com/0FP4mFw.jpg)](https://hugoiramirez.com/)
+[![Github profile](https://i.imgur.com/shq1nKE.jpg)](https://hugoiramirez.com/)
 
 <!--
 **hugoisrr/hugoisrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
